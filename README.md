@@ -1,8 +1,8 @@
 ## Workshop "A Hitchhiker's Guide to Git/ GitHub" by FDU Vancouver's Code4Fun 
 
-Time: 2pm - 3:30pm
-Place: Room 137 - FDU Vancouver
-Promotional Poster: 
+-Time: 2pm - 3:30pm
+-Place: Room 137 - FDU Vancouver
+-Promotional Poster: 
 <img width="695" alt="Screen Shot 2019-04-09 at 18 00 29" src="https://user-images.githubusercontent.com/35150672/56096592-0cdafd00-5e9f-11e9-8644-fef2389bb6f6.png">
 
 ### Content
