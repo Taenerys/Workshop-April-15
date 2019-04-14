@@ -28,44 +28,44 @@ Needed for better chance of getting noticed by your future recruiters and employ
 - Option: audience code along
   1. Necessary operations/commands
     1. Setup
-      -Fork: Create a copy repository to your Github
-      -Clone: Create a local repository in your computer from the online repository
-      -Command: git clone
-      -Init: initialize a local repository.
-          Git init
-      -Add remote server:
-          Git remote add <name> <server>
-      -Note: Use the project to show how to initialize it, and add to a repository in github. Then maybe fork the said project from a different account and clone it to a different folder.
+      -Fork: Create a copy repository to your Github\
+      -Clone: Create a local repository in your computer from the online repository\
+      -Command: git clone\
+      -Init: initialize a local repository.\
+          Git init\
+      -Add remote server:\
+          Git remote add <name> <server>\
+      -Note: Use the project to show how to initialize it, and add to a repository in github. Then maybe fork the said project from a different account and clone it to a different folder.\
 
   2. When working on the project
   
-      -Stage: choose the file(s) to track the changes for newer version??
-          Git add <fileName>
-          Git add . (staging all changed filed)
-      -Commit: make a new version from staged changes
-          Git commit -m “message”
-      -Push: update the changes to online repository
-          Git push
-      -Pull: get the latest code from online repository to local version
-      -Branch: different copies of the original project that can be modified separately and then merged the changes to the original project.
-          Create new branch: git checkout -b <branchName>
-          Go to branch: git checkout <branchName>
-      -Conflicts: Happens when several people try to change 1 same line of code -> cannot know which one to choose.
-          How git shows a conflict.
-          How to fix a conflict.
-      -Note: need to create a conflicted file to show how to fix.
-      -Pull request: let you tell others about changes you've pushed to a GitHub repository. Once a pull request is sent, interested parties can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary.
-      `Note: show how to create a PR, how a collaborator can view and accept/decline the PR.
+      -Stage: choose the file(s) to track the changes for newer version\
+          Git add <fileName>\
+          Git add . (staging all changed filed)\
+      -Commit: make a new version from staged changes\
+          Git commit -m “message”\
+      -Push: update the changes to online repository\
+          Git push\
+      -Pull: get the latest code from online repository to local version\
+      -Branch: different copies of the original project that can be modified separately and then merged the changes to the original project.\
+          Create new branch: git checkout -b <branchName>\
+          Go to branch: git checkout <branchName>\
+      -Conflicts: Happens when several people try to change 1 same line of code -> cannot know which one to choose.\
+          How git shows a conflict.\
+          How to fix a conflict.\
+      -Note: need to create a conflicted file to show how to fix.\
+      -Pull request: let you tell others about changes you've pushed to a GitHub repository. Once a pull request is sent, interested parties can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary.\
+      `Note: show how to create a PR, how a collaborator can view and accept/decline the PR.\
   3. Other helpful commands
-      -Git status: see the current status of the branch (how up-to-date it is to master branch, unstaged/staged changed files)
-      -Git log: see the commits and their messages.
-      -Git remote -v : see all the remote servers.
-      -Git diff <sourceBranch> <targetBranch>: see the different between 2 branches
+      -Git status: see the current status of the branch (how up-to-date it is to master branch, unstaged/staged changed files)\
+      -Git log: see the commits and their messages.\
+      -Git remote -v : see all the remote servers.\
+      -Git diff <sourceBranch> <targetBranch>: see the different between 2 branches\
 
 3. Other helpful sources:
-(Git cheat sheet for beginners: Print 10 copies)
-https://education.github.com/git-cheat-sheet-education.pdf
+(Git cheat sheet for beginners: Print 10 copies)\
+https://education.github.com/git-cheat-sheet-education.pdf\
 
-https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/hosting-your-website-on-github
+https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/hosting-your-website-on-github\
 
 https://scitronboy.github.io/code/2018/simple-git-github-tutorial
